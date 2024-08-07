@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+        <dimen name="app_bar_title_size">20sp</dimen>
+        <dimen name="task_title_size">18sp</dimen>
+        <dimen name="task_description_size">16sp</dimen>
+        <dimen name="button_text_size">16sp</dimen>
+        <dimen name="input_field_size">16sp</dimen>
+        <dimen name="secondary_text_size">14sp</dimen>
+    </resources>
